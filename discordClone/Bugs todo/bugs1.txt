@@ -1,0 +1,2 @@
+logout is not redirecting to homeppage 
+edit and delete functaionality is not visible
